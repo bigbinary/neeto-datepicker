@@ -139,6 +139,7 @@ function PanelHeader<DateType extends object>(props: HeaderProps<DateType>) {
         <button
           type="button"
           aria-label="prev-year"
+          data-cy="prev-year-button"
           onClick={() => onOffset(-1)}
           tabIndex={-1}
           className={classNames(prevBtnCls, disabledOffsetPrev && `${prevBtnCls}-disabled`)}
