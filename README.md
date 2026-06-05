@@ -1,3 +1,9 @@
+# Context
+
+<img width="1400" height="688" alt="CleanShot 2026-06-05 at 06 36 24@2x" src="https://github.com/user-attachments/assets/87f1669f-5b04-49a6-a8a5-9bf72ed6df37" />
+
+
+
 # rc-picker
 
 [![NPM version][npm-image]][npm-url] [![build status][github-actions-image]][github-actions-url] [![Codecov][codecov-image]][codecov-url] [![npm download][download-image]][download-url] [![bundle size][bundlephobia-image]][bundlephobia-url]
